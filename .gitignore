@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Airflow Logs
+00_simpleDag/logs
+
+# pycharm folders
+00_simpleDag/.idea
